@@ -34,9 +34,7 @@ This Code of Conduct applies to all project spaces, including but not limited to
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at garimasingh11203@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
-
-All project team members are obligated to maintain confidentiality regarding the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at pujaranidas2409@gmail.com. All complaints will be reviewed and investigated promptly and fairl.
 
 ## Enforcement Guidelines
 
@@ -49,17 +47,3 @@ Project maintainers will follow these Community Impact Guidelines in determining
 ### 2. Warning
 **Impact**: A violation through a single serious incident or a pattern of inappropriate behavior.  
 **Consequence**: A warning with consequences for continued behavior, including temporary or permanent removal from interactions with the community.
-
-### 3. Temporary Ban
-**Impact**: A serious violation of community standards, including sustained inappropriate behavior.  
-**Consequence**: A temporary ban from any form of interaction or public communication with the community.
-
-### 4. Permanent Ban
-**Impact**: Demonstrating a pattern of sustained inappropriate behavior or harassment.  
-**Consequence**: A permanent ban from the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
-
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq.
